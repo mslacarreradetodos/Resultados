@@ -5,7 +5,7 @@ body {
 }
 
 .hero {
-    background: url('home.png') no-repeat center center/cover; /* Imagen de fondo local */
+    background: url('homee.png') no-repeat center center/cover; /* Imagen de fondo local */
     /* Alternativa con URL externa: background: url('https://source.unsplash.com/random/1600x900/?running') no-repeat center center/cover; */
     padding: 80px 0;
     color: white;
