@@ -79,6 +79,11 @@ section {
     .carousel-item img {
         max-height: 300px;
     }
+
+    .carousel {
+        max-width: 70%;
+        margin: 0 auto;
+    }
 }
 
 @media (max-width: 576px) {
@@ -99,6 +104,12 @@ section {
     }
 
     .carousel-item img {
-        max-height: 200px;
+        max-height: 300px;
     }
+    
+    .carousel {
+        max-width: 70%;
+        margin: 0 auto;
+    }
+    
 }
