@@ -10,7 +10,7 @@ body {
     padding: 80px 0;
     color: white;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
-    background-color: rgba(0, 0, 0, 0.5); /* Capa oscura para mejorar legibilidad */
+    background-color: rgba(0, 0, 0, 0.2); /* Capa oscura para mejorar legibilidad */
     background-blend-mode: overlay; /* Combina la imagen con la capa oscura */
 }
 
@@ -37,13 +37,13 @@ section {
 }
 
 .carousel-item img {
-    max-height: 500px;
+    max-height: 700px;
     object-fit: cover;
     border-radius: 10px;
 }
 
 .carousel {
-    max-width: 60%;
+    max-width: 40%;
     margin: 0 auto;
 }
 
