@@ -3438,10 +3438,19 @@
         "nombre": "Lissette"
     },
     {
+        "numero": "395",
+        "tiempo": "1.12.11",
+        "categoria": "LIBRE",
+        "posicion": 11,
+        "distancia": "12k",
+        "documento": "1102359115",
+        "nombre": "Diana"
+    },
+    {
         "numero": "394",
         "tiempo": "1.13.35",
         "categoria": "LIBRE",
-        "posicion": 11,
+        "posicion": 12,
         "distancia": "12k",
         "documento": "1094580918",
         "nombre": "Mexy"
@@ -3450,7 +3459,7 @@
         "numero": "372",
         "tiempo": "1.13.41",
         "categoria": "LIBRE",
-        "posicion": 12,
+        "posicion": 13,
         "distancia": "12k",
         "documento": "1007673608",
         "nombre": "Jaddys"
@@ -3459,7 +3468,7 @@
         "numero": "404",
         "tiempo": "1.14.06",
         "categoria": "LIBRE",
-        "posicion": 13,
+        "posicion": 14,
         "distancia": "12k",
         "documento": "1098612857",
         "nombre": "Ludy"
@@ -3468,7 +3477,7 @@
         "numero": "382",
         "tiempo": "1.14.26",
         "categoria": "LIBRE",
-        "posicion": 14,
+        "posicion": 15,
         "distancia": "12k",
         "documento": "1095834360",
         "nombre": "Maria"
@@ -3477,7 +3486,7 @@
         "numero": "420",
         "tiempo": "1.14.31",
         "categoria": "LIBRE",
-        "posicion": 15,
+        "posicion": 16,
         "distancia": "12k",
         "documento": "1099366022",
         "nombre": "LLENNY"
@@ -3486,7 +3495,7 @@
         "numero": "440",
         "tiempo": "1.14.55",
         "categoria": "LIBRE",
-        "posicion": 16,
+        "posicion": 17,
         "distancia": "12k",
         "documento": "1098739784",
         "nombre": "María"
@@ -3495,7 +3504,7 @@
         "numero": "424",
         "tiempo": "1.15.36",
         "categoria": "LIBRE",
-        "posicion": 17,
+        "posicion": 18,
         "distancia": "12k",
         "documento": "1096194901",
         "nombre": "Alejandra"
@@ -3504,7 +3513,7 @@
         "numero": "396",
         "tiempo": "1.15.40",
         "categoria": "LIBRE",
-        "posicion": 18,
+        "posicion": 19,
         "distancia": "12k",
         "documento": "1095807237",
         "nombre": "Laura"
@@ -3513,7 +3522,7 @@
         "numero": "392",
         "tiempo": "1.17.02",
         "categoria": "LIBRE",
-        "posicion": 19,
+        "posicion": 20,
         "distancia": "12k",
         "documento": "1095812763",
         "nombre": "Maria"
@@ -3522,7 +3531,7 @@
         "numero": "407",
         "tiempo": "1.17.18",
         "categoria": "LIBRE",
-        "posicion": 20,
+        "posicion": 21,
         "distancia": "12k",
         "documento": "1095949838",
         "nombre": "Diana"
@@ -3531,7 +3540,7 @@
         "numero": "375",
         "tiempo": "1.17.40",
         "categoria": "LIBRE",
-        "posicion": 21,
+        "posicion": 22,
         "distancia": "12k",
         "documento": "1098638635",
         "nombre": "Merly"
@@ -3540,7 +3549,7 @@
         "numero": "346",
         "tiempo": "1.17.55",
         "categoria": "LIBRE",
-        "posicion": 22,
+        "posicion": 23,
         "distancia": "12k",
         "documento": "1098619556",
         "nombre": "Paola"
@@ -3549,7 +3558,7 @@
         "numero": "379",
         "tiempo": "1.18.00",
         "categoria": "LIBRE",
-        "posicion": 23,
+        "posicion": 24,
         "distancia": "12k",
         "documento": "1005332996",
         "nombre": "Lía"
@@ -3558,7 +3567,7 @@
         "numero": "387",
         "tiempo": "1.18.31",
         "categoria": "LIBRE",
-        "posicion": 24,
+        "posicion": 25,
         "distancia": "12k",
         "documento": "1098738338",
         "nombre": "Erika"
@@ -3567,7 +3576,7 @@
         "numero": "380",
         "tiempo": "1.18.40",
         "categoria": "LIBRE",
-        "posicion": 25,
+        "posicion": 26,
         "distancia": "12k",
         "documento": "1098748458",
         "nombre": "Alejandra"
@@ -3576,7 +3585,7 @@
         "numero": "430",
         "tiempo": "1.18.52",
         "categoria": "LIBRE",
-        "posicion": 26,
+        "posicion": 27,
         "distancia": "12k",
         "documento": "1065869140",
         "nombre": "Olga"
@@ -3585,7 +3594,7 @@
         "numero": "350",
         "tiempo": "1.20.00",
         "categoria": "LIBRE",
-        "posicion": 27,
+        "posicion": 28,
         "distancia": "12k",
         "documento": "1095910871",
         "nombre": "Ana"
@@ -3594,7 +3603,7 @@
         "numero": "358",
         "tiempo": "1.20.06",
         "categoria": "LIBRE",
-        "posicion": 28,
+        "posicion": 29,
         "distancia": "12k",
         "documento": "5893039",
         "nombre": "NALLELY"
@@ -3603,7 +3612,7 @@
         "numero": "412",
         "tiempo": "1.20.32",
         "categoria": "LIBRE",
-        "posicion": 29,
+        "posicion": 30,
         "distancia": "12k",
         "documento": "1098728656",
         "nombre": "Leydi"
@@ -3612,7 +3621,7 @@
         "numero": "335",
         "tiempo": "1.21.26",
         "categoria": "LIBRE",
-        "posicion": 30,
+        "posicion": 31,
         "distancia": "12k",
         "documento": "1098631304",
         "nombre": "ALEXANDRA"
@@ -3621,7 +3630,7 @@
         "numero": "422",
         "tiempo": "1.21.41",
         "categoria": "LIBRE",
-        "posicion": 31,
+        "posicion": 32,
         "distancia": "12k",
         "documento": "1098739798",
         "nombre": "Alejandra"
@@ -3630,7 +3639,7 @@
         "numero": "398",
         "tiempo": "1.21.43",
         "categoria": "LIBRE",
-        "posicion": 32,
+        "posicion": 33,
         "distancia": "12k",
         "documento": "1098646952",
         "nombre": "yenny"
@@ -3639,7 +3648,7 @@
         "numero": "441",
         "tiempo": "1.22.42",
         "categoria": "LIBRE",
-        "posicion": 33,
+        "posicion": 34,
         "distancia": "12k",
         "documento": "1099543017",
         "nombre": "Jeimmy"
@@ -3648,7 +3657,7 @@
         "numero": "406",
         "tiempo": "1.23.11",
         "categoria": "LIBRE",
-        "posicion": 34,
+        "posicion": 35,
         "distancia": "12k",
         "documento": "1098725463",
         "nombre": "brigette"
@@ -3657,7 +3666,7 @@
         "numero": "384",
         "tiempo": "1.27.23",
         "categoria": "LIBRE",
-        "posicion": 35,
+        "posicion": 36,
         "distancia": "12k",
         "documento": "1098697502",
         "nombre": "Jenny"
@@ -3666,7 +3675,7 @@
         "numero": "393",
         "tiempo": "1.28.05",
         "categoria": "LIBRE",
-        "posicion": 36,
+        "posicion": 37,
         "distancia": "12k",
         "documento": "1098661274",
         "nombre": "Nathalia"
@@ -3675,7 +3684,7 @@
         "numero": "383",
         "tiempo": "1.28.06",
         "categoria": "LIBRE",
-        "posicion": 37,
+        "posicion": 38,
         "distancia": "12k",
         "documento": "1102382511",
         "nombre": "YESICA"
@@ -3684,7 +3693,7 @@
         "numero": "386",
         "tiempo": "1.28.31",
         "categoria": "LIBRE",
-        "posicion": 38,
+        "posicion": 39,
         "distancia": "12k",
         "documento": "1098777279",
         "nombre": "Daniela"
@@ -3693,7 +3702,7 @@
         "numero": "418",
         "tiempo": "1.29.21",
         "categoria": "LIBRE",
-        "posicion": 39,
+        "posicion": 40,
         "distancia": "12k",
         "documento": "1096211261",
         "nombre": "Liliana"
@@ -3702,7 +3711,7 @@
         "numero": "347",
         "tiempo": "1.30.25",
         "categoria": "LIBRE",
-        "posicion": 40,
+        "posicion": 41,
         "distancia": "12k",
         "documento": "1098760025",
         "nombre": "Alejandra"
@@ -3711,7 +3720,7 @@
         "numero": "399",
         "tiempo": "1.31.22",
         "categoria": "LIBRE",
-        "posicion": 41,
+        "posicion": 42,
         "distancia": "12k",
         "documento": "1098723645",
         "nombre": "Ingrid"
@@ -3720,7 +3729,7 @@
         "numero": "340",
         "tiempo": "1.31.37",
         "categoria": "LIBRE",
-        "posicion": 42,
+        "posicion": 43,
         "distancia": "12k",
         "documento": "1102378062",
         "nombre": "Angy"
@@ -3729,7 +3738,7 @@
         "numero": "416",
         "tiempo": "1.32.06",
         "categoria": "LIBRE",
-        "posicion": 43,
+        "posicion": 44,
         "distancia": "12k",
         "documento": "1098644284",
         "nombre": "July"
@@ -3738,7 +3747,7 @@
         "numero": "378",
         "tiempo": "1.32.10",
         "categoria": "LIBRE",
-        "posicion": 44,
+        "posicion": 45,
         "distancia": "12k",
         "documento": "1082886413",
         "nombre": "Liliana"
@@ -3747,7 +3756,7 @@
         "numero": "400",
         "tiempo": "1.34.55",
         "categoria": "LIBRE",
-        "posicion": 45,
+        "posicion": 46,
         "distancia": "12k",
         "documento": "1098694001",
         "nombre": "Jenifer"
@@ -3756,7 +3765,7 @@
         "numero": "344",
         "tiempo": "1.35.51",
         "categoria": "LIBRE",
-        "posicion": 46,
+        "posicion": 47,
         "distancia": "12k",
         "documento": "1005454456",
         "nombre": "Ginna"
@@ -3765,7 +3774,7 @@
         "numero": "457",
         "tiempo": "1.36.52",
         "categoria": "LIBRE",
-        "posicion": 47,
+        "posicion": 48,
         "distancia": "12k",
         "documento": "10962553301",
         "nombre": "Angie"
@@ -3774,7 +3783,7 @@
         "numero": "332",
         "tiempo": "1.36.53",
         "categoria": "LIBRE",
-        "posicion": 48,
+        "posicion": 49,
         "distancia": "12k",
         "documento": "1003777173",
         "nombre": "Yuli"
@@ -3783,7 +3792,7 @@
         "numero": "442",
         "tiempo": "1.38.06",
         "categoria": "LIBRE",
-        "posicion": 49,
+        "posicion": 50,
         "distancia": "12k",
         "documento": "1092393942",
         "nombre": "Jaireth"
@@ -3792,7 +3801,7 @@
         "numero": "390",
         "tiempo": "1.39.50",
         "categoria": "LIBRE",
-        "posicion": 50,
+        "posicion": 51,
         "distancia": "12k",
         "documento": "1099205932",
         "nombre": "Nataly"
@@ -3801,7 +3810,7 @@
         "numero": "451",
         "tiempo": "1.40.54",
         "categoria": "LIBRE",
-        "posicion": 51,
+        "posicion": 52,
         "distancia": "12k",
         "documento": "49672238",
         "nombre": "Marelbi"
@@ -3810,7 +3819,7 @@
         "numero": "353",
         "tiempo": "1.42.36",
         "categoria": "LIBRE",
-        "posicion": 52,
+        "posicion": 53,
         "distancia": "12k",
         "documento": "1095946713",
         "nombre": "María"
@@ -3819,7 +3828,7 @@
         "numero": "397",
         "tiempo": "1.47.35",
         "categoria": "LIBRE",
-        "posicion": 53,
+        "posicion": 54,
         "distancia": "12k",
         "documento": "1098659735",
         "nombre": "Maida"
@@ -3828,7 +3837,7 @@
         "numero": "342",
         "tiempo": "1.50.10",
         "categoria": "LIBRE",
-        "posicion": 54,
+        "posicion": 55,
         "distancia": "12k",
         "documento": "1095907791",
         "nombre": "Rocío"
