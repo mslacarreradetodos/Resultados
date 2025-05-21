@@ -1764,19 +1764,10 @@
         "nombre": "Nohemi"
     },
     {
-        "numero": "171",
-        "tiempo": "52.52",
-        "categoria": "LIBRE",
-        "posicion": 34,
-        "distancia": "7k",
-        "documento": "1096228836",
-        "nombre": "Gisselle"
-    },
-    {
         "numero": "151",
         "tiempo": "53.01",
         "categoria": "LIBRE",
-        "posicion": 35,
+        "posicion": 34,
         "distancia": "7k",
         "documento": "1098695028",
         "nombre": "Katherine"
@@ -1785,7 +1776,7 @@
         "numero": "193",
         "tiempo": "53.08",
         "categoria": "LIBRE",
-        "posicion": 36,
+        "posicion": 35,
         "distancia": "7k",
         "documento": "1098260836",
         "nombre": "Laura"
@@ -1794,7 +1785,7 @@
         "numero": "131",
         "tiempo": "53.10",
         "categoria": "LIBRE",
-        "posicion": 37,
+        "posicion": 36,
         "distancia": "7k",
         "documento": "1098635137",
         "nombre": "LEIDY"
@@ -1803,7 +1794,7 @@
         "numero": "209",
         "tiempo": "53.25",
         "categoria": "LIBRE",
-        "posicion": 38,
+        "posicion": 37,
         "distancia": "7k",
         "documento": "21034014",
         "nombre": "Laura"
@@ -1812,7 +1803,7 @@
         "numero": "155",
         "tiempo": "53.37",
         "categoria": "LIBRE",
-        "posicion": 39,
+        "posicion": 38,
         "distancia": "7k",
         "documento": "1050545640",
         "nombre": "Natalia"
@@ -1821,7 +1812,7 @@
         "numero": "224",
         "tiempo": "54.01",
         "categoria": "LIBRE",
-        "posicion": 40,
+        "posicion": 39,
         "distancia": "7k",
         "documento": "1091662036",
         "nombre": "Daniela"
@@ -1830,7 +1821,7 @@
         "numero": "185",
         "tiempo": "54.20",
         "categoria": "LIBRE",
-        "posicion": 41,
+        "posicion": 40,
         "distancia": "7k",
         "documento": "1101207599",
         "nombre": "Gloria"
@@ -1839,7 +1830,7 @@
         "numero": "138",
         "tiempo": "54.39",
         "categoria": "LIBRE",
-        "posicion": 42,
+        "posicion": 41,
         "distancia": "7k",
         "documento": "1101683614",
         "nombre": "Julieth"
@@ -1848,7 +1839,7 @@
         "numero": "148",
         "tiempo": "54.49",
         "categoria": "LIBRE",
-        "posicion": 43,
+        "posicion": 42,
         "distancia": "7k",
         "documento": "1102634104",
         "nombre": "Paula"
@@ -1857,7 +1848,7 @@
         "numero": "173",
         "tiempo": "55.47",
         "categoria": "LIBRE",
-        "posicion": 44,
+        "posicion": 43,
         "distancia": "7k",
         "documento": "1122417390",
         "nombre": "Maria"
@@ -1866,7 +1857,7 @@
         "numero": "158",
         "tiempo": "56.25",
         "categoria": "LIBRE",
-        "posicion": 45,
+        "posicion": 44,
         "distancia": "7k",
         "documento": "1095828568",
         "nombre": "Carolina"
@@ -1875,7 +1866,7 @@
         "numero": "164",
         "tiempo": "56.27",
         "categoria": "LIBRE",
-        "posicion": 46,
+        "posicion": 45,
         "distancia": "7k",
         "documento": "1005543555",
         "nombre": "Jessica"
@@ -1884,7 +1875,7 @@
         "numero": "143",
         "tiempo": "56.37",
         "categoria": "LIBRE",
-        "posicion": 47,
+        "posicion": 46,
         "distancia": "7k",
         "documento": "1005305352",
         "nombre": "YENI"
@@ -1893,7 +1884,7 @@
         "numero": "182",
         "tiempo": "56.50",
         "categoria": "LIBRE",
-        "posicion": 48,
+        "posicion": 47,
         "distancia": "7k",
         "documento": "1096228980",
         "nombre": "Paola"
@@ -1902,7 +1893,7 @@
         "numero": "157",
         "tiempo": "56.59",
         "categoria": "LIBRE",
-        "posicion": 49,
+        "posicion": 48,
         "distancia": "7k",
         "documento": "1096216159",
         "nombre": "Jennifer"
@@ -1911,7 +1902,7 @@
         "numero": "181",
         "tiempo": "57.26",
         "categoria": "LIBRE",
-        "posicion": 50,
+        "posicion": 49,
         "distancia": "7k",
         "documento": "1096189815",
         "nombre": "Liliana"
@@ -1920,7 +1911,7 @@
         "numero": "154",
         "tiempo": "57.28",
         "categoria": "LIBRE",
-        "posicion": 51,
+        "posicion": 50,
         "distancia": "7k",
         "documento": "1101206819",
         "nombre": "Angelica"
@@ -1929,7 +1920,7 @@
         "numero": "220",
         "tiempo": "57.30",
         "categoria": "LIBRE",
-        "posicion": 52,
+        "posicion": 51,
         "distancia": "7k",
         "documento": "1095796315",
         "nombre": "Laura"
@@ -1938,7 +1929,7 @@
         "numero": "119",
         "tiempo": "57.42",
         "categoria": "LIBRE",
-        "posicion": 53,
+        "posicion": 52,
         "distancia": "7k",
         "documento": "1100955127",
         "nombre": "LAURA"
@@ -1947,7 +1938,7 @@
         "numero": "144",
         "tiempo": "57.56",
         "categoria": "LIBRE",
-        "posicion": 54,
+        "posicion": 53,
         "distancia": "7k",
         "documento": "37620713",
         "nombre": "Paola"
@@ -1956,7 +1947,7 @@
         "numero": "117",
         "tiempo": "58.02",
         "categoria": "LIBRE",
-        "posicion": 55,
+        "posicion": 54,
         "distancia": "7k",
         "documento": "1099874870",
         "nombre": "Darlyn"
@@ -1965,7 +1956,7 @@
         "numero": "132",
         "tiempo": "58.12",
         "categoria": "LIBRE",
-        "posicion": 56,
+        "posicion": 55,
         "distancia": "7k",
         "documento": "1098619460",
         "nombre": "YURANY"
@@ -1974,7 +1965,7 @@
         "numero": "160",
         "tiempo": "58.35",
         "categoria": "LIBRE",
-        "posicion": 57,
+        "posicion": 56,
         "distancia": "7k",
         "documento": "1095805436",
         "nombre": "Norida"
@@ -1983,7 +1974,7 @@
         "numero": "137",
         "tiempo": "59.55",
         "categoria": "LIBRE",
-        "posicion": 58,
+        "posicion": 57,
         "distancia": "7k",
         "documento": "1095804073",
         "nombre": "Silvia"
@@ -1992,7 +1983,7 @@
         "numero": "227",
         "tiempo": "1.00.06",
         "categoria": "LIBRE",
-        "posicion": 59,
+        "posicion": 58,
         "distancia": "7k",
         "documento": "1095938390",
         "nombre": "Jheraldyn"
@@ -2001,7 +1992,7 @@
         "numero": "178",
         "tiempo": "1.00.52",
         "categoria": "LIBRE",
-        "posicion": 60,
+        "posicion": 59,
         "distancia": "7k",
         "documento": "1098645055",
         "nombre": "Nadya"
@@ -2010,7 +2001,7 @@
         "numero": "150",
         "tiempo": "1.01.18",
         "categoria": "LIBRE",
-        "posicion": 61,
+        "posicion": 60,
         "distancia": "7k",
         "documento": "1098705922",
         "nombre": "Jenny"
@@ -2019,7 +2010,7 @@
         "numero": "130",
         "tiempo": "1.01.22",
         "categoria": "LIBRE",
-        "posicion": 62,
+        "posicion": 61,
         "distancia": "7k",
         "documento": "1098715874",
         "nombre": "María"
@@ -2028,7 +2019,7 @@
         "numero": "176",
         "tiempo": "1.02.36",
         "categoria": "LIBRE",
-        "posicion": 63,
+        "posicion": 62,
         "distancia": "7k",
         "documento": "1096208076",
         "nombre": "jessica"
@@ -2037,7 +2028,7 @@
         "numero": "201",
         "tiempo": "1.02.37",
         "categoria": "LIBRE",
-        "posicion": 64,
+        "posicion": 63,
         "distancia": "7k",
         "documento": "1098637726",
         "nombre": "Diana"
@@ -2046,25 +2037,16 @@
         "numero": "153",
         "tiempo": "1.03.08",
         "categoria": "LIBRE",
-        "posicion": 65,
+        "posicion": 64,
         "distancia": "7k",
         "documento": "1098670997",
         "nombre": "Silvia"
     },
     {
-        "numero": "225",
-        "tiempo": "1.03.27",
-        "categoria": "LIBRE",
-        "posicion": 66,
-        "distancia": "7k",
-        "documento": "1007540885",
-        "nombre": "Yury"
-    },
-    {
         "numero": "159",
         "tiempo": "1.04.15",
         "categoria": "LIBRE",
-        "posicion": 67,
+        "posicion": 65,
         "distancia": "7k",
         "documento": "1098718138",
         "nombre": "Sara"
@@ -2073,7 +2055,7 @@
         "numero": "186",
         "tiempo": "1.06.14",
         "categoria": "LIBRE",
-        "posicion": 68,
+        "posicion": 66,
         "distancia": "7k",
         "documento": "1101206437",
         "nombre": "Yiri"
@@ -2082,7 +2064,7 @@
         "numero": "199",
         "tiempo": "1.10.48",
         "categoria": "LIBRE",
-        "posicion": 69,
+        "posicion": 67,
         "distancia": "7k",
         "documento": "1098672081",
         "nombre": "Diana"
@@ -2091,7 +2073,7 @@
         "numero": "228",
         "tiempo": "1.13.15",
         "categoria": "LIBRE",
-        "posicion": 70,
+        "posicion": 68,
         "distancia": "7k",
         "documento": "1098720236",
         "nombre": "Diana"
@@ -2100,7 +2082,7 @@
         "numero": "229",
         "tiempo": "1.14.23",
         "categoria": "LIBRE",
-        "posicion": 71,
+        "posicion": 69,
         "distancia": "7k",
         "documento": "1095950125",
         "nombre": "Xiomara"
@@ -2205,19 +2187,10 @@
         "nombre": "Gabriela"
     },
     {
-        "numero": "232",
-        "tiempo": "49.43",
-        "categoria": "MASTER A",
-        "posicion": 12,
-        "distancia": "7k",
-        "documento": "37840046",
-        "nombre": "Yelitzza"
-    },
-    {
         "numero": "264",
         "tiempo": "51.01",
         "categoria": "MASTER A",
-        "posicion": 13,
+        "posicion": 12,
         "distancia": "7k",
         "documento": "1095790558",
         "nombre": "HIRIDA"
@@ -2226,7 +2199,7 @@
         "numero": "247",
         "tiempo": "51.53",
         "categoria": "MASTER A",
-        "posicion": 14,
+        "posicion": 13,
         "distancia": "7k",
         "documento": "44155603",
         "nombre": "Lilia"
@@ -2235,7 +2208,7 @@
         "numero": "249",
         "tiempo": "52.11",
         "categoria": "MASTER A",
-        "posicion": 15,
+        "posicion": 14,
         "distancia": "7k",
         "documento": "37751424",
         "nombre": "ERIKA"
@@ -2244,7 +2217,7 @@
         "numero": "241",
         "tiempo": "52.29",
         "categoria": "MASTER A",
-        "posicion": 16,
+        "posicion": 15,
         "distancia": "7k",
         "documento": "43253565",
         "nombre": "Angela"
@@ -2253,7 +2226,7 @@
         "numero": "255",
         "tiempo": "53.05",
         "categoria": "MASTER A",
-        "posicion": 17,
+        "posicion": 16,
         "distancia": "7k",
         "documento": "37557334",
         "nombre": "Fanny"
@@ -2262,7 +2235,7 @@
         "numero": "274",
         "tiempo": "53.33",
         "categoria": "MASTER A",
-        "posicion": 18,
+        "posicion": 17,
         "distancia": "7k",
         "documento": "37557519",
         "nombre": "Patricia"
@@ -2271,7 +2244,7 @@
         "numero": "251",
         "tiempo": "54.05",
         "categoria": "MASTER A",
-        "posicion": 19,
+        "posicion": 18,
         "distancia": "7k",
         "documento": "29360204",
         "nombre": "Nathalia"
@@ -2280,7 +2253,7 @@
         "numero": "268",
         "tiempo": "54.42",
         "categoria": "MASTER A",
-        "posicion": 20,
+        "posicion": 19,
         "distancia": "7k",
         "documento": "37747883",
         "nombre": "Amilde"
@@ -2289,7 +2262,7 @@
         "numero": "242",
         "tiempo": "54.50",
         "categoria": "MASTER A",
-        "posicion": 21,
+        "posicion": 20,
         "distancia": "7k",
         "documento": "37901256",
         "nombre": "Daniela"
@@ -2298,7 +2271,7 @@
         "numero": "253",
         "tiempo": "55.32",
         "categoria": "MASTER A",
-        "posicion": 22,
+        "posicion": 21,
         "distancia": "7k",
         "documento": "22657427",
         "nombre": "ELI"
@@ -2307,7 +2280,7 @@
         "numero": "275",
         "tiempo": "56.40",
         "categoria": "MASTER A",
-        "posicion": 23,
+        "posicion": 22,
         "distancia": "7k",
         "documento": "37556796",
         "nombre": "Sonia"
@@ -2316,7 +2289,7 @@
         "numero": "257",
         "tiempo": "57.39",
         "categoria": "MASTER A",
-        "posicion": 24,
+        "posicion": 23,
         "distancia": "7k",
         "documento": "37864545",
         "nombre": "PAOLA"
@@ -2325,7 +2298,7 @@
         "numero": "266",
         "tiempo": "58.18",
         "categoria": "MASTER A",
-        "posicion": 25,
+        "posicion": 24,
         "distancia": "7k",
         "documento": "37842876",
         "nombre": "Sandra"
@@ -2334,7 +2307,7 @@
         "numero": "244",
         "tiempo": "1.01.53",
         "categoria": "MASTER A",
-        "posicion": 26,
+        "posicion": 25,
         "distancia": "7k",
         "documento": "63527797",
         "nombre": "Marly"
@@ -2343,7 +2316,7 @@
         "numero": "272",
         "tiempo": "1.06.06",
         "categoria": "MASTER A",
-        "posicion": 27,
+        "posicion": 26,
         "distancia": "7k",
         "documento": "634526700",
         "nombre": "Nadia"
@@ -2352,7 +2325,7 @@
         "numero": "259",
         "tiempo": "1.09.20",
         "categoria": "MASTER A",
-        "posicion": 28,
+        "posicion": 27,
         "distancia": "7k",
         "documento": "63550653",
         "nombre": "Pahola"
@@ -2826,19 +2799,10 @@
         "nombre": "Jorge"
     },
     {
-        "numero": "435",
-        "tiempo": "1.10.38",
-        "categoria": "LIBRE",
-        "posicion": 37,
-        "distancia": "12k",
-        "documento": "1098625319",
-        "nombre": "Diana"
-    },
-    {
         "numero": "355",
         "tiempo": "1.11.03",
         "categoria": "LIBRE",
-        "posicion": 38,
+        "posicion": 37,
         "distancia": "12k",
         "documento": "1098676443",
         "nombre": "Erwing"
@@ -2847,7 +2811,7 @@
         "numero": "367",
         "tiempo": "1.11.08",
         "categoria": "LIBRE",
-        "posicion": 39,
+        "posicion": 38,
         "distancia": "12k",
         "documento": "1098660781",
         "nombre": "Henry"
@@ -2856,7 +2820,7 @@
         "numero": "349",
         "tiempo": "1.11.38",
         "categoria": "LIBRE",
-        "posicion": 40,
+        "posicion": 39,
         "distancia": "12k",
         "documento": "1098777299",
         "nombre": "Andres"
@@ -2865,7 +2829,7 @@
         "numero": "411",
         "tiempo": "1.11.42",
         "categoria": "LIBRE",
-        "posicion": 41,
+        "posicion": 40,
         "distancia": "12k",
         "documento": "1102348264",
         "nombre": "Sergio"
@@ -2874,7 +2838,7 @@
         "numero": "351",
         "tiempo": "1.13.18",
         "categoria": "LIBRE",
-        "posicion": 42,
+        "posicion": 41,
         "distancia": "12k",
         "documento": "1018441100",
         "nombre": "Jose"
@@ -2883,25 +2847,16 @@
         "numero": "356",
         "tiempo": "1.13.22",
         "categoria": "LIBRE",
-        "posicion": 43,
+        "posicion": 42,
         "distancia": "12k",
         "documento": "1030574310",
         "nombre": "Alejandro"
     },
     {
-        "numero": "372",
-        "tiempo": "1.13.41",
-        "categoria": "LIBRE",
-        "posicion": 44,
-        "distancia": "12k",
-        "documento": "1007673608",
-        "nombre": "Jaddys"
-    },
-    {
         "numero": "391",
         "tiempo": "1.14.01",
         "categoria": "LIBRE",
-        "posicion": 45,
+        "posicion": 43,
         "distancia": "12k",
         "documento": "1098630365",
         "nombre": "ISAI"
@@ -2910,7 +2865,7 @@
         "numero": "365",
         "tiempo": "1.14.22",
         "categoria": "LIBRE",
-        "posicion": 46,
+        "posicion": 44,
         "distancia": "12k",
         "documento": "1098697156",
         "nombre": "Alexander"
@@ -2919,7 +2874,7 @@
         "numero": "446",
         "tiempo": "1.16.02",
         "categoria": "LIBRE",
-        "posicion": 47,
+        "posicion": 45,
         "distancia": "12k",
         "documento": "1098688951",
         "nombre": "Ivan"
@@ -2928,7 +2883,7 @@
         "numero": "388",
         "tiempo": "1.16.38",
         "categoria": "LIBRE",
-        "posicion": 48,
+        "posicion": 46,
         "distancia": "12k",
         "documento": "1098725088",
         "nombre": "Andrés"
@@ -2937,25 +2892,16 @@
         "numero": "429",
         "tiempo": "1.18.25",
         "categoria": "LIBRE",
-        "posicion": 49,
+        "posicion": 47,
         "distancia": "12k",
         "documento": "1096217110",
         "nombre": "Ariel"
     },
     {
-        "numero": "413",
-        "tiempo": "1.20.37",
-        "categoria": "LIBRE",
-        "posicion": 50,
-        "distancia": "12k",
-        "documento": "1095796039",
-        "nombre": "Eduar"
-    },
-    {
         "numero": "408",
         "tiempo": "1.20.57",
         "categoria": "LIBRE",
-        "posicion": 51,
+        "posicion": 48,
         "distancia": "12k",
         "documento": "1095811270",
         "nombre": "Roberth"
@@ -2964,7 +2910,7 @@
         "numero": "419",
         "tiempo": "1.21.44",
         "categoria": "LIBRE",
-        "posicion": 52,
+        "posicion": 49,
         "distancia": "12k",
         "documento": "1098632388",
         "nombre": "Edward"
@@ -2973,61 +2919,34 @@
         "numero": "431",
         "tiempo": "1.22.17",
         "categoria": "LIBRE",
-        "posicion": 53,
+        "posicion": 50,
         "distancia": "12k",
         "documento": "1098730591",
         "nombre": "Ivo"
     },
     {
-        "numero": "413",
-        "tiempo": "1.23.14",
-        "categoria": "LIBRE",
-        "posicion": 54,
-        "distancia": "12k",
-        "documento": "1095796039",
-        "nombre": "Eduar"
-    },
-    {
         "numero": "370",
         "tiempo": "1.24.10",
         "categoria": "LIBRE",
-        "posicion": 55,
+        "posicion": 51,
         "distancia": "12k",
         "documento": "1102723474",
         "nombre": "Luis"
     },
     {
-        "numero": "341",
-        "tiempo": "1.24.30",
-        "categoria": "LIBRE",
-        "posicion": 56,
-        "distancia": "12k",
-        "documento": "1005137112",
-        "nombre": "Victor"
-    },
-    {
         "numero": "339",
         "tiempo": "1.24.59",
         "categoria": "LIBRE",
-        "posicion": 57,
+        "posicion": 52,
         "distancia": "12k",
         "documento": "1099363686",
         "nombre": "William"
     },
     {
-        "numero": "435",
-        "tiempo": "1.27.02",
-        "categoria": "LIBRE",
-        "posicion": 58,
-        "distancia": "12k",
-        "documento": "1098625319",
-        "nombre": "Diana"
-    },
-    {
         "numero": "401",
         "tiempo": "1.27.13",
         "categoria": "LIBRE",
-        "posicion": 59,
+        "posicion": 53,
         "distancia": "12k",
         "documento": "1098691252",
         "nombre": "lui"
@@ -3036,7 +2955,7 @@
         "numero": "456",
         "tiempo": "1.27.40",
         "categoria": "LIBRE",
-        "posicion": 60,
+        "posicion": 54,
         "distancia": "12k",
         "documento": "10173037817",
         "nombre": "Enrique"
@@ -3045,7 +2964,7 @@
         "numero": "444",
         "tiempo": "1.28.26",
         "categoria": "LIBRE",
-        "posicion": 61,
+        "posicion": 55,
         "distancia": "12k",
         "documento": "1077454098",
         "nombre": "Saul"
@@ -3054,25 +2973,16 @@
         "numero": "409",
         "tiempo": "1.31.22",
         "categoria": "LIBRE",
-        "posicion": 62,
+        "posicion": 56,
         "distancia": "12k",
         "documento": "1095796047",
         "nombre": "VICTOR"
     },
     {
-        "numero": "417",
-        "tiempo": "1.32.08",
-        "categoria": "LIBRE",
-        "posicion": 63,
-        "distancia": "12k",
-        "documento": "1095810380",
-        "nombre": "Fabian"
-    },
-    {
         "numero": "343",
         "tiempo": "1.35.50",
         "categoria": "LIBRE",
-        "posicion": 64,
+        "posicion": 57,
         "distancia": "12k",
         "documento": "1005480370",
         "nombre": "Fernando"
@@ -3081,7 +2991,7 @@
         "numero": "348",
         "tiempo": "1.37.55",
         "categoria": "LIBRE",
-        "posicion": 65,
+        "posicion": 58,
         "distancia": "12k",
         "documento": "1005154884",
         "nombre": "Juan"
@@ -3090,7 +3000,7 @@
         "numero": "354",
         "tiempo": "1.42.37",
         "categoria": "LIBRE",
-        "posicion": 66,
+        "posicion": 59,
         "distancia": "12k",
         "documento": "1098710423",
         "nombre": "Alexander"
@@ -3099,7 +3009,7 @@
         "numero": "373",
         "tiempo": "1.45.50",
         "categoria": "LIBRE",
-        "posicion": 67,
+        "posicion": 60,
         "distancia": "12k",
         "documento": "1098711207",
         "nombre": "carlos"
@@ -3108,7 +3018,7 @@
         "numero": "345",
         "tiempo": "1.47.40",
         "categoria": "LIBRE",
-        "posicion": 68,
+        "posicion": 61,
         "distancia": "12k",
         "documento": "1098816283",
         "nombre": "Brayham"
@@ -3267,19 +3177,10 @@
         "nombre": "Eduardo"
     },
     {
-        "numero": "475",
-        "tiempo": "1.08.21",
-        "categoria": "MASTER",
-        "posicion": 18,
-        "distancia": "12k",
-        "documento": "63538805",
-        "nombre": "Leticia"
-    },
-    {
         "numero": "485",
         "tiempo": "1.09.06",
         "categoria": "MASTER",
-        "posicion": 19,
+        "posicion": 18,
         "distancia": "12k",
         "documento": "13870506",
         "nombre": "CHRISTIAN"
@@ -3288,7 +3189,7 @@
         "numero": "477",
         "tiempo": "1.10.37",
         "categoria": "MASTER",
-        "posicion": 20,
+        "posicion": 19,
         "distancia": "12k",
         "documento": "13742171",
         "nombre": "EDWIN"
@@ -3297,7 +3198,7 @@
         "numero": "532",
         "tiempo": "1.11.44",
         "categoria": "MASTER",
-        "posicion": 21,
+        "posicion": 20,
         "distancia": "12k",
         "documento": "13741604",
         "nombre": "Ricardo"
@@ -3306,7 +3207,7 @@
         "numero": "500",
         "tiempo": "1.11.48",
         "categoria": "MASTER",
-        "posicion": 22,
+        "posicion": 21,
         "distancia": "12k",
         "documento": "91519334",
         "nombre": "José"
@@ -3315,7 +3216,7 @@
         "numero": "507",
         "tiempo": "1.13.37",
         "categoria": "MASTER",
-        "posicion": 23,
+        "posicion": 22,
         "distancia": "12k",
         "documento": "91507467",
         "nombre": "Juan"
@@ -3324,7 +3225,7 @@
         "numero": "499",
         "tiempo": "1.13.38",
         "categoria": "MASTER",
-        "posicion": 24,
+        "posicion": 23,
         "distancia": "12k",
         "documento": "91225255",
         "nombre": "FERNANDO"
@@ -3333,7 +3234,7 @@
         "numero": "496",
         "tiempo": "1.14.02",
         "categoria": "MASTER",
-        "posicion": 25,
+        "posicion": 24,
         "distancia": "12k",
         "documento": "79004928",
         "nombre": "JOSE"
@@ -3342,7 +3243,7 @@
         "numero": "506",
         "tiempo": "1.14.22",
         "categoria": "MASTER",
-        "posicion": 26,
+        "posicion": 25,
         "distancia": "12k",
         "documento": "91527016",
         "nombre": "Sergio"
@@ -3351,7 +3252,7 @@
         "numero": "497",
         "tiempo": "1.14.28",
         "categoria": "MASTER",
-        "posicion": 27,
+        "posicion": 26,
         "distancia": "12k",
         "documento": "91531066",
         "nombre": "Diego"
@@ -3360,7 +3261,7 @@
         "numero": "469",
         "tiempo": "1.14.43",
         "categoria": "MASTER",
-        "posicion": 28,
+        "posicion": 27,
         "distancia": "12k",
         "documento": "91253131",
         "nombre": "Germán"
@@ -3369,7 +3270,7 @@
         "numero": "517",
         "tiempo": "1.16.41",
         "categoria": "MASTER",
-        "posicion": 29,
+        "posicion": 28,
         "distancia": "12k",
         "documento": "91527998",
         "nombre": "Miguel"
@@ -3378,7 +3279,7 @@
         "numero": "462",
         "tiempo": "1.17.51",
         "categoria": "MASTER",
-        "posicion": 30,
+        "posicion": 29,
         "distancia": "12k",
         "documento": "91268060",
         "nombre": "Edgar"
@@ -3387,25 +3288,16 @@
         "numero": "525",
         "tiempo": "1.18.50",
         "categoria": "MASTER",
-        "posicion": 31,
+        "posicion": 30,
         "distancia": "12k",
         "documento": "13721537",
         "nombre": "edilberto"
     },
     {
-        "numero": "516",
-        "tiempo": "1.18.56",
-        "categoria": "MASTER",
-        "posicion": 32,
-        "distancia": "12k",
-        "documento": "91451384",
-        "nombre": "Alirio"
-    },
-    {
         "numero": "528",
         "tiempo": "1.19.35",
         "categoria": "MASTER",
-        "posicion": 33,
+        "posicion": 31,
         "distancia": "12k",
         "documento": "91279998",
         "nombre": "Hugo"
@@ -3414,7 +3306,7 @@
         "numero": "467",
         "tiempo": "1.20.01",
         "categoria": "MASTER",
-        "posicion": 34,
+        "posicion": 32,
         "distancia": "12k",
         "documento": "91277299",
         "nombre": "VLADIMIR"
@@ -3423,7 +3315,7 @@
         "numero": "515",
         "tiempo": "1.23.34",
         "categoria": "MASTER",
-        "posicion": 35,
+        "posicion": 33,
         "distancia": "12k",
         "documento": "731483",
         "nombre": "JORGE"
@@ -3432,7 +3324,7 @@
         "numero": "464",
         "tiempo": "1.25.59",
         "categoria": "MASTER",
-        "posicion": 36,
+        "posicion": 34,
         "distancia": "12k",
         "documento": "91510030",
         "nombre": "Fran"
@@ -3441,7 +3333,7 @@
         "numero": "518",
         "tiempo": "1.33.05",
         "categoria": "MASTER",
-        "posicion": 37,
+        "posicion": 35,
         "distancia": "12k",
         "documento": "91494788",
         "nombre": "Alvaro"
@@ -3450,7 +3342,7 @@
         "numero": "466",
         "tiempo": "1.49.57",
         "categoria": "MASTER",
-        "posicion": 38,
+        "posicion": 36,
         "distancia": "12k",
         "documento": "91535367",
         "nombre": "Miguel"
@@ -3744,19 +3636,10 @@
         "nombre": "yenny"
     },
     {
-        "numero": "335",
-        "tiempo": "1.22.39",
-        "categoria": "LIBRE",
-        "posicion": 33,
-        "distancia": "12k",
-        "documento": "1098631304",
-        "nombre": "ALEXANDRA"
-    },
-    {
         "numero": "441",
         "tiempo": "1.22.42",
         "categoria": "LIBRE",
-        "posicion": 34,
+        "posicion": 33,
         "distancia": "12k",
         "documento": "1099543017",
         "nombre": "Jeimmy"
@@ -3765,34 +3648,16 @@
         "numero": "406",
         "tiempo": "1.23.11",
         "categoria": "LIBRE",
-        "posicion": 35,
+        "posicion": 34,
         "distancia": "12k",
         "documento": "1098725463",
         "nombre": "brigette"
     },
     {
-        "numero": "358",
-        "tiempo": "1.24.43",
-        "categoria": "LIBRE",
-        "posicion": 36,
-        "distancia": "12k",
-        "documento": "5893039",
-        "nombre": "NALLELY"
-    },
-    {
-        "numero": "435",
-        "tiempo": "1.27.02",
-        "categoria": "LIBRE",
-        "posicion": 37,
-        "distancia": "12k",
-        "documento": "1098625319",
-        "nombre": "Diana"
-    },
-    {
         "numero": "384",
         "tiempo": "1.27.23",
         "categoria": "LIBRE",
-        "posicion": 38,
+        "posicion": 35,
         "distancia": "12k",
         "documento": "1098697502",
         "nombre": "Jenny"
@@ -3801,7 +3666,7 @@
         "numero": "393",
         "tiempo": "1.28.05",
         "categoria": "LIBRE",
-        "posicion": 39,
+        "posicion": 36,
         "distancia": "12k",
         "documento": "1098661274",
         "nombre": "Nathalia"
@@ -3810,7 +3675,7 @@
         "numero": "383",
         "tiempo": "1.28.06",
         "categoria": "LIBRE",
-        "posicion": 40,
+        "posicion": 37,
         "distancia": "12k",
         "documento": "1102382511",
         "nombre": "YESICA"
@@ -3819,7 +3684,7 @@
         "numero": "386",
         "tiempo": "1.28.31",
         "categoria": "LIBRE",
-        "posicion": 41,
+        "posicion": 38,
         "distancia": "12k",
         "documento": "1098777279",
         "nombre": "Daniela"
@@ -3828,7 +3693,7 @@
         "numero": "418",
         "tiempo": "1.29.21",
         "categoria": "LIBRE",
-        "posicion": 42,
+        "posicion": 39,
         "distancia": "12k",
         "documento": "1096211261",
         "nombre": "Liliana"
@@ -3837,7 +3702,7 @@
         "numero": "347",
         "tiempo": "1.30.25",
         "categoria": "LIBRE",
-        "posicion": 43,
+        "posicion": 40,
         "distancia": "12k",
         "documento": "1098760025",
         "nombre": "Alejandra"
@@ -3846,7 +3711,7 @@
         "numero": "399",
         "tiempo": "1.31.22",
         "categoria": "LIBRE",
-        "posicion": 44,
+        "posicion": 41,
         "distancia": "12k",
         "documento": "1098723645",
         "nombre": "Ingrid"
@@ -3855,7 +3720,7 @@
         "numero": "340",
         "tiempo": "1.31.37",
         "categoria": "LIBRE",
-        "posicion": 45,
+        "posicion": 42,
         "distancia": "12k",
         "documento": "1102378062",
         "nombre": "Angy"
@@ -3864,7 +3729,7 @@
         "numero": "416",
         "tiempo": "1.32.06",
         "categoria": "LIBRE",
-        "posicion": 46,
+        "posicion": 43,
         "distancia": "12k",
         "documento": "1098644284",
         "nombre": "July"
@@ -3873,7 +3738,7 @@
         "numero": "378",
         "tiempo": "1.32.10",
         "categoria": "LIBRE",
-        "posicion": 47,
+        "posicion": 44,
         "distancia": "12k",
         "documento": "1082886413",
         "nombre": "Liliana"
@@ -3882,7 +3747,7 @@
         "numero": "400",
         "tiempo": "1.34.55",
         "categoria": "LIBRE",
-        "posicion": 48,
+        "posicion": 45,
         "distancia": "12k",
         "documento": "1098694001",
         "nombre": "Jenifer"
@@ -3891,7 +3756,7 @@
         "numero": "344",
         "tiempo": "1.35.51",
         "categoria": "LIBRE",
-        "posicion": 49,
+        "posicion": 46,
         "distancia": "12k",
         "documento": "1005454456",
         "nombre": "Ginna"
@@ -3900,7 +3765,7 @@
         "numero": "457",
         "tiempo": "1.36.52",
         "categoria": "LIBRE",
-        "posicion": 50,
+        "posicion": 47,
         "distancia": "12k",
         "documento": "10962553301",
         "nombre": "Angie"
@@ -3909,7 +3774,7 @@
         "numero": "332",
         "tiempo": "1.36.53",
         "categoria": "LIBRE",
-        "posicion": 51,
+        "posicion": 48,
         "distancia": "12k",
         "documento": "1003777173",
         "nombre": "Yuli"
@@ -3918,7 +3783,7 @@
         "numero": "442",
         "tiempo": "1.38.06",
         "categoria": "LIBRE",
-        "posicion": 52,
+        "posicion": 49,
         "distancia": "12k",
         "documento": "1092393942",
         "nombre": "Jaireth"
@@ -3927,7 +3792,7 @@
         "numero": "390",
         "tiempo": "1.39.50",
         "categoria": "LIBRE",
-        "posicion": 53,
+        "posicion": 50,
         "distancia": "12k",
         "documento": "1099205932",
         "nombre": "Nataly"
@@ -3936,7 +3801,7 @@
         "numero": "451",
         "tiempo": "1.40.54",
         "categoria": "LIBRE",
-        "posicion": 54,
+        "posicion": 51,
         "distancia": "12k",
         "documento": "49672238",
         "nombre": "Marelbi"
@@ -3945,7 +3810,7 @@
         "numero": "353",
         "tiempo": "1.42.36",
         "categoria": "LIBRE",
-        "posicion": 55,
+        "posicion": 52,
         "distancia": "12k",
         "documento": "1095946713",
         "nombre": "María"
@@ -3954,25 +3819,16 @@
         "numero": "397",
         "tiempo": "1.47.35",
         "categoria": "LIBRE",
-        "posicion": 56,
+        "posicion": 53,
         "distancia": "12k",
         "documento": "1098659735",
         "nombre": "Maida"
     },
     {
-        "numero": "345",
-        "tiempo": "1.47.40",
-        "categoria": "LIBRE",
-        "posicion": 57,
-        "distancia": "12k",
-        "documento": "1098816283",
-        "nombre": "Brayham"
-    },
-    {
         "numero": "342",
         "tiempo": "1.50.10",
         "categoria": "LIBRE",
-        "posicion": 58,
+        "posicion": 54,
         "distancia": "12k",
         "documento": "1095907791",
         "nombre": "Rocío"
@@ -4032,19 +3888,10 @@
         "nombre": "Aydee"
     },
     {
-        "numero": "507",
-        "tiempo": "1.13.37",
-        "categoria": "MASTER",
-        "posicion": 7,
-        "distancia": "12k",
-        "documento": "91507467",
-        "nombre": "Juan"
-    },
-    {
         "numero": "474",
         "tiempo": "1.14.03",
         "categoria": "MASTER",
-        "posicion": 8,
+        "posicion": 7,
         "distancia": "12k",
         "documento": "37725069",
         "nombre": "Hortencia"
@@ -4053,7 +3900,7 @@
         "numero": "529",
         "tiempo": "1.15.31",
         "categoria": "MASTER",
-        "posicion": 9,
+        "posicion": 8,
         "distancia": "12k",
         "documento": "63475245",
         "nombre": "Yolanda"
@@ -4062,7 +3909,7 @@
         "numero": "509",
         "tiempo": "1.17.46",
         "categoria": "MASTER",
-        "posicion": 10,
+        "posicion": 9,
         "distancia": "12k",
         "documento": "81476676",
         "nombre": "DENIS"
@@ -4071,7 +3918,7 @@
         "numero": "476",
         "tiempo": "1.18.26",
         "categoria": "MASTER",
-        "posicion": 11,
+        "posicion": 10,
         "distancia": "12k",
         "documento": "32391683",
         "nombre": "Rubiela"
@@ -4080,7 +3927,7 @@
         "numero": "481",
         "tiempo": "1.18.51",
         "categoria": "MASTER",
-        "posicion": 12,
+        "posicion": 11,
         "distancia": "12k",
         "documento": "28162021",
         "nombre": "Elsy"
@@ -4089,7 +3936,7 @@
         "numero": "491",
         "tiempo": "1.19.26",
         "categoria": "MASTER",
-        "posicion": 13,
+        "posicion": 12,
         "distancia": "12k",
         "documento": "63537546",
         "nombre": "Lizette"
@@ -4098,7 +3945,7 @@
         "numero": "492",
         "tiempo": "1.19.41",
         "categoria": "MASTER",
-        "posicion": 14,
+        "posicion": 13,
         "distancia": "12k",
         "documento": "37708066",
         "nombre": "Yolima"
@@ -4107,7 +3954,7 @@
         "numero": "505",
         "tiempo": "1.20.19",
         "categoria": "MASTER",
-        "posicion": 15,
+        "posicion": 14,
         "distancia": "12k",
         "documento": "63539678",
         "nombre": "Ana"
@@ -4116,7 +3963,7 @@
         "numero": "468",
         "tiempo": "1.22.56",
         "categoria": "MASTER",
-        "posicion": 16,
+        "posicion": 15,
         "distancia": "12k",
         "documento": "63497080",
         "nombre": "Carmen"
@@ -4125,7 +3972,7 @@
         "numero": "472",
         "tiempo": "1.23.00",
         "categoria": "MASTER",
-        "posicion": 17,
+        "posicion": 16,
         "distancia": "12k",
         "documento": "63395822",
         "nombre": "Bibiana"
@@ -4134,7 +3981,7 @@
         "numero": "493",
         "tiempo": "1.25.00",
         "categoria": "MASTER",
-        "posicion": 18,
+        "posicion": 17,
         "distancia": "12k",
         "documento": "63526336",
         "nombre": "Juana"
@@ -4143,7 +3990,7 @@
         "numero": "471",
         "tiempo": "1.25.19",
         "categoria": "MASTER",
-        "posicion": 19,
+        "posicion": 18,
         "distancia": "12k",
         "documento": "63490700",
         "nombre": "Martha"
@@ -4152,7 +3999,7 @@
         "numero": "486",
         "tiempo": "1.27.00",
         "categoria": "MASTER",
-        "posicion": 20,
+        "posicion": 19,
         "distancia": "12k",
         "documento": "52100182",
         "nombre": "Diana"
@@ -4161,7 +4008,7 @@
         "numero": "483",
         "tiempo": "1.26.45",
         "categoria": "MASTER",
-        "posicion": 21,
+        "posicion": 20,
         "distancia": "12k",
         "documento": "28213945",
         "nombre": "OMAIRA"
@@ -4170,7 +4017,7 @@
         "numero": "522",
         "tiempo": "1.28.02",
         "categoria": "MASTER",
-        "posicion": 22,
+        "posicion": 21,
         "distancia": "12k",
         "documento": "37863712",
         "nombre": "Diana"
@@ -4179,7 +4026,7 @@
         "numero": "494",
         "tiempo": "1.28.03",
         "categoria": "MASTER",
-        "posicion": 23,
+        "posicion": 22,
         "distancia": "12k",
         "documento": "63533091",
         "nombre": "Nancy"
@@ -4188,7 +4035,7 @@
         "numero": "503",
         "tiempo": "1.28.08",
         "categoria": "MASTER",
-        "posicion": 24,
+        "posicion": 23,
         "distancia": "12k",
         "documento": "37840275",
         "nombre": "Dennys"
@@ -4197,7 +4044,7 @@
         "numero": "473",
         "tiempo": "1.29.01",
         "categoria": "MASTER",
-        "posicion": 25,
+        "posicion": 24,
         "distancia": "12k",
         "documento": "35522372",
         "nombre": "Patricia"
@@ -4206,7 +4053,7 @@
         "numero": "502",
         "tiempo": "1.39.06",
         "categoria": "MASTER",
-        "posicion": 26,
+        "posicion": 25,
         "distancia": "12k",
         "documento": "22548767",
         "nombre": "Adriana"
@@ -4215,7 +4062,7 @@
         "numero": "490",
         "tiempo": "1.41.55",
         "categoria": "MASTER",
-        "posicion": 27,
+        "posicion": 26,
         "distancia": "12k",
         "documento": "63481771",
         "nombre": "ANA"
@@ -4224,7 +4071,7 @@
         "numero": "482",
         "tiempo": "1.50.42",
         "categoria": "MASTER",
-        "posicion": 28,
+        "posicion": 27,
         "distancia": "12k",
         "documento": "1098612416",
         "nombre": "SILVIA"
@@ -4233,7 +4080,7 @@
         "numero": "498",
         "tiempo": "1.50.59",
         "categoria": "MASTER",
-        "posicion": 29,
+        "posicion": 28,
         "distancia": "12k",
         "documento": "45775725",
         "nombre": "Luz"
@@ -4242,7 +4089,7 @@
         "numero": "535",
         "tiempo": "2.09.10",
         "categoria": "MASTER",
-        "posicion": 30,
+        "posicion": 29,
         "distancia": "12k",
         "documento": "28218042",
         "nombre": "Luz"
@@ -4251,7 +4098,7 @@
         "numero": "536",
         "tiempo": "2.09.11",
         "categoria": "MASTER",
-        "posicion": 31,
+        "posicion": 30,
         "distancia": "12k",
         "documento": "28137998",
         "nombre": "Azucena"
