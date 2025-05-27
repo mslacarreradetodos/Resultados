@@ -1269,10 +1269,19 @@
         "nombre": "Said"
     },
     {
+        "numero": "293",
+        "tiempo": 52.55,
+        "categoria": "MASTER B",
+        "posicion": 8,
+        "distancia": "7 km",
+        "documento": "91179016",
+        "nombre": "Edgar"
+    },
+    {
         "numero": "302",
         "tiempo": "59.20",
         "categoria": "MASTER B",
-        "posicion": 8,
+        "posicion": 9,
         "distancia": "7 km",
         "documento": "91251565",
         "nombre": "Luis"
