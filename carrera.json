@@ -1170,10 +1170,19 @@
         "nombre": "Juan"
     },
     {
+        "numero": "248",
+        "tiempo": 51.53,
+        "categoria": "MASTER A",
+        "posicion": 14,
+        "distancia": "7 km",
+        "documento": "13544546",
+        "nombre": "Juan"
+    },
+    {
         "numero": "234",
         "tiempo": "52.26",
         "categoria": "MASTER A",
-        "posicion": 14,
+        "posicion": 15,
         "distancia": "7 km",
         "documento": "13715256",
         "nombre": "Jorge"
@@ -1182,7 +1191,7 @@
         "numero": "243",
         "tiempo": "52.55",
         "categoria": "MASTER A",
-        "posicion": 15,
+        "posicion": 16,
         "distancia": "7 km",
         "documento": "63534605",
         "nombre": "Esmeralda"
@@ -1191,7 +1200,7 @@
         "numero": "238",
         "tiempo": "54.29",
         "categoria": "MASTER A",
-        "posicion": 16,
+        "posicion": 17,
         "distancia": "7 km",
         "documento": "91528217",
         "nombre": "Ronald"
@@ -1200,7 +1209,7 @@
         "numero": "280",
         "tiempo": "1.01.25",
         "categoria": "MASTER A",
-        "posicion": 17,
+        "posicion": 18,
         "distancia": "7 km",
         "documento": "91449431",
         "nombre": "Kike"
